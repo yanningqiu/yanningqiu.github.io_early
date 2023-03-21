@@ -1,0 +1,2 @@
+cd '/Users/qiuyanning/Documents/Ruby/Personal website/beautiful-jekyll-master'
+bundle exec jekyll serve
