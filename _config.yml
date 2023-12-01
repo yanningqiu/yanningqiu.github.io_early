@@ -22,9 +22,9 @@ author: Yanning Qiu | 邱燕宁
 navbar-links:
   About Me: "index"
   Publications: "Publications"
-  # Fun:
-  #   - Photography: "Photography"
-  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Fun:
+    - Photography: "Photography"
+    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
