@@ -48,17 +48,17 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-# social-network-links:
-# email: "someone@example.com"
+social-network-links:
+  email: "yanning.qiu@wur.nl"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-github: https://github.com/yanningqiu
- twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+github: yanningqiu
+ twitter: YanningQiu
+# patreon: DeanAttali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-linkedin: https://www.linkedin.com/in/yanning-qiu-607585b1/
+linkedin: yanning-qiu-607585b1
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,8 +71,8 @@ linkedin: https://www.linkedin.com/in/yanning-qiu-607585b1/
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: "https://orcid.org/0000-0002-4637-4716"
-google-scholar: "https://scholar.google.nl/citations?user=sQNXZ4UAAAAJ&hl=en"
+ORCID: 0000-0002-4637-4716
+google-scholar: citations?hl=en&pli=1&user=sQNXZ4UAAAAJ
 #  discord: invite/invite_code or users/userid
 #  kaggle: yourname
 #  hackerrank: yourname
